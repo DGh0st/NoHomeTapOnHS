@@ -1,0 +1,9 @@
+Package: com.dgh0st.nohometaponhs
+Name: NoHomePressOnHS
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Disable the home button press on springboard/homescreen.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
